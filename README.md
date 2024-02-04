@@ -1,3 +1,14 @@
 # TypeRacerBot
- A small bot to type faster than you in the typeracer.com
- take screenshot of the text and save it in the image folder by the name text.png after that run the script and click the input field, Relax and watch your light speed typing.
+An AI-powered bot designed to help you improve typing skills by racing against it on type speed website, example: [typeracer.com](https://www.typeracer.com).
+
+## Getting Started
+To use the TypeRacerBot, follow these steps:
+1. Clone or download this repository to your local machine.
+2. Open the terminal or command prompt in the project directory.
+3. Run the script using Python: `python main.py`
+4. Upon running the script, you will need to click on two positions where the text is displayed on the Typeracer website for it to take screenshot (the script will handle capturing the screenshot).
+5. After taking the screenshot, click 'Enter' and quickly place your cursor in the input field on the website.
+6. Enjoy watching your typing speed increase as you race against the bot!
+
+## Important Note
+This project is intended for educational purposes only, without any malicious intent.
