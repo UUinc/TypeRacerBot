@@ -10,5 +10,8 @@ To use the TypeRacerBot, follow these steps:
 5. After taking the screenshot, click 'Enter' and quickly place your cursor in the input field on the website.
 6. Enjoy watching your typing speed increase as you race against the bot!
 
+## Images
+![image](https://github.com/UUinc/TypeRacerBot/assets/63449913/0566a1af-0ff6-4bbd-809e-debf2ad542b0)
+
 ## Important Note
 This project is intended for educational purposes only, without any malicious intent.
